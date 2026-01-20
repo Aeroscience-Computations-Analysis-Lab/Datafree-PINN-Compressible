@@ -1,4 +1,4 @@
-# Physics-Informed Neural Networks for Compressible Flows with Shocks
+# Data-free Physics-Informed Neural Networks for Compressible Flows with Shocks
 
 This repository implements **Physics-Informed Neural Networks (PINNs)** for solving the **compressible Euler equations** in the presence of **shock waves**.
 
@@ -72,5 +72,6 @@ If you use this code in your research, please cite:
   journal = {Computer & Fluids}
 }
 ```
+
 
 
