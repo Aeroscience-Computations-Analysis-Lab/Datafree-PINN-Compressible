@@ -62,7 +62,7 @@ Each case corresponds to a distinct 2D Riemann initial configuration.
 📖 Citation
 
 If you use this code in your research, please cite:
-
+```bibtex
 @article{kumar2026shocks,
   title = {A Robust Data-Free Physics-Informed Neural Network for Compressible Flows with Shocks}},
   author = {Prashant Kumar and Rajesh Ranjan},
@@ -71,5 +71,6 @@ If you use this code in your research, please cite:
   year = {2026},
   journal = {Computer & Fluids}
 }
+```
 
 
